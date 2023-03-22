@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Validação de Formulário</h1>
+<h1 align="center"> Projeto Calculadora IMC com React.js + TypeScript</h1>
 
 <br>
 
@@ -22,7 +22,7 @@
 <p align="center">Calculadora IMC</p>
 <br>
 <div display="flex">
-<img  src="./public/ProjetoIMC.png"  width="500">
+<img  src="./public/ProjetoIMC.png"  width="500" display="center">
 </div>
 
 <br>
