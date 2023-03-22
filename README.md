@@ -18,15 +18,6 @@
 
 <br>
 
-## 📷 Projeto
-<p align="center">Calculadora IMC</p>
-<br>
-<div display="flex">
-<img  src="./public/ProjetoIMC.png"  width="500" display="center">
-</div>
-
-<br>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -37,14 +28,24 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
+## 📷 Projeto
+<p align="center">Calculadora IMC</p>
+<br>
+<div display="flex">
+<img  src="./public/ProjetoIMC.png"  width="500" display="center">
+</div>
+
+<br>
+
 ## 📍 site
 
-- aqui voce poderá ver o site completo: <a href="https://matheus-ellenberger.github.io/formulario-js/">Clique aqui.</a> 
+- aqui voce poderá ver o projeto completo: <a href="https://matheus-ellenberger.github.io/formulario-js/">Clique aqui.</a> 
 <br>
 
 ## 🛠️ Serviços
 
-- <a href="https://github.com/Matheus-Ellenberger">GitHub</a> - Hospedagem
+- Instalação:  ` npm install `
+- Para rodar:  ` npm start `
 
 <br>
 
