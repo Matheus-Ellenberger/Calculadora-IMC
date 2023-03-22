@@ -15,6 +15,11 @@ export const GridItem = ({item}: Props) => {
                 {item.icon === 'down' && <img src={downImage} alt='' width='30'/>}
                 
             </div>
+
+            {item.seuImc &&
+                <div className={styles.seuImc}>Seu IMC é de {item.seuImc.toFixed(2)} Kg/m²</div>
+            }
+
             <div className={styles.gridTitle}>{item.title}</div>
             <div className={styles.gridInfo}>
                 <>

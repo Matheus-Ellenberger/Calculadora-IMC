@@ -18,8 +18,9 @@ export const calculo = (Altura: number, Peso: number) => {
 
     for(let i in levels) {
         if (imc >= levels[i].imc[0] && imc < levels[i].imc[1]) {
-            levels[i].seuImc = imc;
-            return levels[i]
+            let levelCopy = {...levels[i]}
+            levelCopy.seuImc = imc;
+            return levelCopy
         }
     }
     return null;
