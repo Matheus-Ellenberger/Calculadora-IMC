@@ -37,10 +37,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 
-## 📍 site
-
-- aqui voce poderá ver o projeto completo: <a href="https://matheus-ellenberger.github.io/formulario-js/">Clique aqui.</a> 
-<br>
 
 ## 🛠️ Serviços
 
